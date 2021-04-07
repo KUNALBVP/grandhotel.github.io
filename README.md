@@ -2,7 +2,7 @@
 ### An attractive and user freindly website using HTML and CSS only.
 A simple appealing “Grand Hotel” website with pure CSS.
 
-Open the website from [here]().
+Open the website from [here](https://kunalbvp.github.io/grandhotel.github.io/).
 
 Through this project, I learn how to use flex property, how
 to set animations and how to make website responsive to
